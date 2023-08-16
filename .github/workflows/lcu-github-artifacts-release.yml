@@ -1,4 +1,4 @@
-name: GuerrillaGorilla/fathym-forecast-mapTiles
+name: kcarrol/fathym-forecast-maptiles
 
 on:
   push:
