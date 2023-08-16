@@ -11,7 +11,7 @@ Fathym Forecast available tile types:
     Visibility_Surface            [max zoom: 3] [max zoom 6: US only]
     Wind_10Meters                 [max zoom: infinite]
 
-World Temperature_2Meters at Zoom 2 with an Opacify of 50%:
+World Temperature_2Meters at Zoom 2 with an Opacity of 50%:
 ![image](https://github.com/GuerrillaGorilla/fathym-forecast-maptiles/assets/98773549/e1fc2ea1-ec6e-4789-9826-013575a90887)
 
 Map Scales:
